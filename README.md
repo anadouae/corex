@@ -24,3 +24,8 @@ ctest --test-dir build --output-on-failure
 ## Author
 
 Douae El Assal · ENSA Tétouan · https://github.com/anadouae
+
+## Security & methodology
+
+See [`SECURITY.md`](SECURITY.md) and [`docs/PROJECT_METHODOLOGY.md`](docs/PROJECT_METHODOLOGY.md).
+
